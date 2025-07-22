@@ -31,11 +31,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitsharma4567&layout=compact&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=amitsharma4567&theme=radical)](https://git.io/streak-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=amitsharma4567&theme=radical&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
-![](https://komarev.com/ghpvc/?username=amitsharma4567&color=blue)
 
 ---
 
