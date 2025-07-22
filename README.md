@@ -14,4 +14,4 @@
 
 
 ### 📊 GitHub Stats
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsharma4567&show_icons=true&theme=radical)
