@@ -1,7 +1,7 @@
 ### Hi there, I'm Amit 👋
 
-💻 I’m a developer who loves building web apps  
-🌱 Currently exploring: TypeScript 
+💻 I’m a developer who loves building web apps
+🌱 Currently exploring: TypeScript
 📫 Reach me at: [amittsharma4567@gmail.com](mailto:your_email@example.com)
 
 ### 🛠️ Tech Stack
