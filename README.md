@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there, I'm Amit 👋
 
-<!--
-**amitsharma4567/amitsharma4567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I’m a developer who loves building web apps  
+🌱 Currently exploring: TypeScript 
+📫 Reach me at: [amittsharma4567@gmail.com](mailto:your_email@example.com)
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📊 GitHub Stats
+![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
