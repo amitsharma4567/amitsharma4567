@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Amit 👋</h1>
-<p align="center">🚀 Full Stack Developer | 🧠 Lifelong Learner | 💡 Problem Solver</p>
+<p align="center"> Full Stack Developer | Lifelong Learner | Problem Solver</p>
 
 ---
 
-💻 I’m a developer who loves building web apps and solving real-world problems
+I’m a developer who loves building web apps and solving real-world problems
 
-🌱 Currently exploring: **Machine Learning** 🤖
+Currently exploring: **Machine Learning** 🤖
 
-📫 Reach me at: [amittsharma4567@gmail.com](mailto:amittsharma4567@gmail.com)
+Reach me at: [amittsharma4567@gmail.com](mailto:amittsharma4567@gmail.com)
 
 ---
 
@@ -26,7 +26,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 ![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsharma4567&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitsharma4567&layout=compact&theme=radical)
@@ -34,11 +34,11 @@
 
 ---
 
-> “I love learning concepts deeply — from data structures to full-stack frameworks — and turning that knowledge into real, working apps!”
+> “I love learning concepts deeply from data structures to full-stack frameworks and turning that knowledge into real, working apps!”
 
 ---
 
-### 🌐 Let's Connect!
+### Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/amit-kumar-sharma-404233325)
 - [GitHub](https://github.com/amitsharma4567)
 
