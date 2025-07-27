@@ -26,9 +26,6 @@ Reach me at: [amittsharma4567@gmail.com](mailto:amittsharma4567@gmail.com)
 
 ---
 
-### GitHub Stats
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitsharma4567&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitsharma4567&layout=compact&theme=radical)
 
 
@@ -40,5 +37,4 @@ Reach me at: [amittsharma4567@gmail.com](mailto:amittsharma4567@gmail.com)
 
 ### Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/amit-kumar-sharma-404233325)
-- [GitHub](https://github.com/amitsharma4567)
 
