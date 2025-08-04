@@ -5,7 +5,7 @@
 
 I’m a developer who loves building web apps and solving real-world problems
 
-Currently exploring: **Machine Learning** 🤖
+Currently exploring: **Machine Learning** 
 
 Reach me at: [amittsharma4567@gmail.com](mailto:amittsharma4567@gmail.com)
 
@@ -31,7 +31,7 @@ Reach me at: [amittsharma4567@gmail.com](mailto:amittsharma4567@gmail.com)
 
 ---
 
-> “I love learning concepts deeply from data structures to full-stack frameworks and turning that knowledge into real, working apps!”
+> I love learning concepts deeply from data structures to full-stack frameworks and turning that knowledge into real, working apps.
 
 ---
 
