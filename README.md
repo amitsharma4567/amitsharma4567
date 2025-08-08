@@ -1,5 +1,4 @@
 <h1 align="center">Hi there, I'm Amit 👋</h1>
-<p align="center"> Full Stack Developer | Lifelong Learner | Problem Solver</p>
 
 ---
 
